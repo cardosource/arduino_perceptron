@@ -14,10 +14,10 @@ Esse projeto criado para um arduino, consiste em ligar os ledes na sequencia cor
 
 END
 
-1  1        = 1            
-1  0        = 0          
-0  0        = 0             
-0  0        = 0       
+1...... 1        = 1            
+1......  0        = 0          
+0......   0        = 0             
+0......   0        = 0       
 
-Baixas sinapses não iram ligar o led na sequencia correta, o peso correto iniciara por fileira a luz e apagara as luzes de forma invertida.
+Baixas sinapses não iram ligar o led na sequencia correta, o peso correto iniciara por fileira a luz e apagara as luzes da forma invertida.
 

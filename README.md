@@ -15,7 +15,7 @@ Esse projeto criado para um arduino, consiste em ligar os ledes na sequencia cor
 END
 
 1  1        = 1            
-1  0        = 0
+1  0        = 0          
 0  0        = 0
 0  0        = 0
 

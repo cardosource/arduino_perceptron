@@ -1,7 +1,7 @@
-Um neuronio biologico  é dividido em 3 regiões dentrito, soma, axonio.
-dentrito; recebe estimulos.
-soma; coleta e combina informações.
-axonio; transmite.
+Um neuronio biologico  é dividido em 3 regiões dentrito, soma, axonio.      
+dentrito; recebe estimulos.      
+soma; coleta e combina informações.       
+axonio; transmite.      
 
 
 O modelo de aprendizagem de maquina perceptron de uma camada pode ser compreendida e implementada em tarefas simples já que não exige complexibilidades.

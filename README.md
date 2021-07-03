@@ -1,3 +1,6 @@
+
+# Modelo de Aprenizagem de maquina 
+
 Um neuronio biologico  é dividido em 3 regiões dentrito, soma, axonio.      
 dentrito; recebe estimulos.      
 soma; coleta e combina informações.       
@@ -14,14 +17,13 @@ Esse projeto criado para um arduino, consiste em ligar os ledes na sequencia cor
 
 END
 
-1...... 1        = 1            
-1......  0        = 0          
-0......   0        = 0             
-0......   0        = 0       
 
 | compara | compara     |  saida             |
 | :-------- | :------- | :------------------------- |
 | `1` | `1` | **1** |
+| `1` | `0` | **0** |
+| `0` | `0` | **0** |
+| `0` | `0` | **0** |
 
 Baixas sinapses não iram ligar o led na sequencia correta, o peso correto iniciara por fileira a luz e apagara as luzes da forma invertida.
 

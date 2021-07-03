@@ -19,5 +19,11 @@ END
 0......   0        = 0             
 0......   0        = 0       
 
+| compara | compara     |  saida             |
+| :-------- | :------- | :------------------------- |
+| `1` | `1` | **1** |
+
 Baixas sinapses não iram ligar o led na sequencia correta, o peso correto iniciara por fileira a luz e apagara as luzes da forma invertida.
+
+![](https://img.shields.io/badge/Code-v3.9-informational?style=flat&logo=python&logoColor=white&color=blue) ![GitHub](https://img.shields.io/badge/licence-MIT-GREE) 
 
